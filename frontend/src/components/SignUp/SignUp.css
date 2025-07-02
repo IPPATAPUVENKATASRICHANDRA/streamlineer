@@ -1,0 +1,307 @@
+/* Import National Park font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=National+Park:wght@400;700&display=swap');
+
+/* Zara-inspired minimalist style for SignUp & Login */
+body, html {
+  font-family: 'National Park', sans-serif;
+  background: #fff;
+  color: #666;
+}
+
+.signup-container, .login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #fff;
+  padding: 0;
+}
+
+.signup-box, .login-box {
+  background: #fff;
+  padding: 48px 32px;
+  border-radius: 0;
+  box-shadow: none;
+  width: 100%;
+  max-width: 420px;
+  border: none;
+}
+
+.signup-header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 16px;
+  margin-bottom: 32px;
+  flex-wrap: wrap;
+}
+
+.signup-title, .login-title {
+  text-align: left;
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin: 0 0 0.5em 0;
+  color: #000;
+}
+
+.signup-header-row .login-link, .login-link {
+  font-size: 1rem;
+  color: #888;
+  text-align: right;
+  margin: 0;
+  font-weight: 300;
+}
+
+.signup-box .subtitle {
+  font-size: 1rem;
+  color: #888;
+  margin-bottom: 2em;
+  text-align: left;
+}
+
+.form-group {
+  margin-bottom: 28px;
+  text-align: left;
+  background: none;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  box-shadow: none;
+  transition: none;
+}
+.form-group:focus-within {
+  border-color: initial;
+  box-shadow: none;
+}
+
+.form-group label {
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #666;
+  margin-bottom: 8px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.form-group input,
+.form-group select {
+  width: 100%;
+  padding: 10px 0;
+  font-size: 1rem;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  background: transparent;
+  color: #666;
+  outline: none;
+  transition: border-color 0.2s;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.form-group input:focus,
+.form-group select:focus {
+  border-bottom: 1.5px solid #666;
+}
+
+.name-group {
+  display: flex;
+  gap: 20px;
+}
+
+.name-group .form-group {
+  width: 50%;
+}
+
+.phone-input {
+  display: flex;
+  gap: 8px;
+}
+
+.country-code {
+  width: auto;
+  min-width: 110px;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  border-radius: 0;
+  background: transparent;
+  color: #666;
+  font-size: 1rem;
+  padding: 10px 0;
+}
+
+#phone-number {
+  border-radius: 0;
+}
+
+.password-input {
+  position: relative;
+}
+
+.password-input input {
+  padding-right: 40px;
+}
+
+.toggle-password {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #888;
+  font-size: 1.1rem;
+  padding: 0 8px;
+  transition: color 0.2s;
+}
+.toggle-password:hover {
+  color: #666;
+}
+
+.checkbox-row {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin: 18px 0 8px 0;
+  width: 100%;
+}
+
+.checkbox-row input[type="checkbox"] {
+  width: 22px;
+  height: 22px;
+  accent-color: #0077ff;
+  border-radius: 6px;
+  margin: 0;
+  transition: box-shadow 0.2s;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  cursor: pointer;
+}
+
+.checkbox-row input[type="checkbox"]:hover {
+  box-shadow: 0 2px 8px rgba(0,119,255,0.12);
+}
+
+.checkbox-row label {
+  flex: 1;
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #444;
+  line-height: 1.6;
+  word-break: break-word;
+  cursor: pointer;
+  padding: 0;
+}
+
+.login-btn, .create-account-btn {
+  text-align: center;
+  border: 1px solid #666;
+  color: #666;
+  background: #fff;
+  border-radius: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 12px 0;
+  width: 100%;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  box-shadow: none;
+  text-decoration: none !important;
+}
+.login-btn:hover, .login-btn:active, .login-btn:focus,
+.create-account-btn:hover, .create-account-btn:active, .create-account-btn:focus {
+  background: #f5f5f5;
+  color: #666;
+  border: 1px solid #666;
+  text-decoration: none !important;
+}
+
+.terms-agreement, .login-link {
+  font-size: 0.9rem;
+  color: #888;
+  text-align: center;
+  margin-top: 1.5rem;
+  font-weight: 300;
+}
+
+.terms-agreement a, .login-link a {
+  color: #666;
+  text-decoration: none;
+  font-weight: 400;
+  transition: color 0.2s;
+}
+
+.terms-agreement a:hover, .login-link a:hover {
+  color: #888;
+}
+
+.app-name {
+  color: #666;
+}
+
+.error-msg {
+  color: #d32f2f;
+  font-size: 0.85rem;
+  margin-top: 4px;
+  font-weight: 300;
+  text-align: left;
+}
+
+.terms-error {
+  color: #d32f2f;
+  font-size: 0.85rem;
+  margin-top: 8px;
+  font-weight: 300;
+}
+
+@media (max-width: 600px) {
+  .signup-header-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  .signup-header-row .login-link {
+    text-align: left;
+    font-size: 0.95rem;
+  }
+  .signup-box, .login-box {
+    padding: 32px 8px;
+  }
+  .name-group {
+    flex-direction: column;
+    gap: 0;
+  }
+  .name-group .form-group {
+    width: 100%;
+  }
+}
+
+.form-row {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}
+
+.line-input, .form-group input, .form-group select {
+  border: none !important;
+  border-bottom: 1px solid #bbb !important;
+  border-radius: 0 !important;
+  outline: none !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  padding: 12px 0 !important;
+  font-size: 1rem;
+  width: 100%;
+  transition: border-color 0.2s cubic-bezier(0.4,0,0.2,1);
+}
+
+.line-input:hover, .form-group input:hover, .form-group select:hover,
+.line-input:focus, .form-group input:focus, .form-group select:focus {
+  border-bottom: 1.5px solid #888 !important;
+  background: transparent !important;
+} 
