@@ -1,0 +1,172 @@
+[
+  {
+    "Lot Size": "Lot Size",
+    "General Inspection Level I": "General Inspection Levels",
+    "General Inspection Level II": "",
+    "General Inspection Level III": "",
+    "Special Inspection Level S1": "Special Inspection Levels",
+    "Special Inspection Level S2": "",
+    "Special Inspection Level S3": "",
+    "Special Inspection Level S4": ""
+  },
+  {
+    "Lot Size": "",
+    "General Inspection Level I": "I",
+    "General Inspection Level II": "II",
+    "General Inspection Level III": "III",
+    "Special Inspection Level S1": "S1",
+    "Special Inspection Level S2": "S2",
+    "Special Inspection Level S3": "S3",
+    "Special Inspection Level S4": "S4"
+  },
+  {
+    "Lot Size": "2 to 8",
+    "General Inspection Level I": "A",
+    "General Inspection Level II": "A",
+    "General Inspection Level III": "B",
+    "Special Inspection Level S1": "A",
+    "Special Inspection Level S2": "A",
+    "Special Inspection Level S3": "A",
+    "Special Inspection Level S4": "A"
+  },
+  {
+    "Lot Size": "9 to 15",
+    "General Inspection Level I": "A",
+    "General Inspection Level II": "B",
+    "General Inspection Level III": "C",
+    "Special Inspection Level S1": "A",
+    "Special Inspection Level S2": "A",
+    "Special Inspection Level S3": "A",
+    "Special Inspection Level S4": "A"
+  },
+  {
+    "Lot Size": "16 to 25",
+    "General Inspection Level I": "B",
+    "General Inspection Level II": "C",
+    "General Inspection Level III": "D",
+    "Special Inspection Level S1": "A",
+    "Special Inspection Level S2": "A",
+    "Special Inspection Level S3": "B",
+    "Special Inspection Level S4": "B"
+  },
+  {
+    "Lot Size": "26 to 50",
+    "General Inspection Level I": "C",
+    "General Inspection Level II": "D",
+    "General Inspection Level III": "E",
+    "Special Inspection Level S1": "A",
+    "Special Inspection Level S2": "B",
+    "Special Inspection Level S3": "B",
+    "Special Inspection Level S4": "C"
+  },
+  {
+    "Lot Size": "51 to 90",
+    "General Inspection Level I": "C",
+    "General Inspection Level II": "E",
+    "General Inspection Level III": "F",
+    "Special Inspection Level S1": "B",
+    "Special Inspection Level S2": "B",
+    "Special Inspection Level S3": "C",
+    "Special Inspection Level S4": "C"
+  },
+  {
+    "Lot Size": "91 to 150",
+    "General Inspection Level I": "D",
+    "General Inspection Level II": "F",
+    "General Inspection Level III": "G",
+    "Special Inspection Level S1": "B",
+    "Special Inspection Level S2": "B",
+    "Special Inspection Level S3": "C",
+    "Special Inspection Level S4": "D"
+  },
+  {
+    "Lot Size": "151 to 280",
+    "General Inspection Level I": "E",
+    "General Inspection Level II": "G",
+    "General Inspection Level III": "H",
+    "Special Inspection Level S1": "B",
+    "Special Inspection Level S2": "C",
+    "Special Inspection Level S3": "D",
+    "Special Inspection Level S4": "E"
+  },
+  {
+    "Lot Size": "281 to 500",
+    "General Inspection Level I": "F",
+    "General Inspection Level II": "H",
+    "General Inspection Level III": "J",
+    "Special Inspection Level S1": "B",
+    "Special Inspection Level S2": "C",
+    "Special Inspection Level S3": "D",
+    "Special Inspection Level S4": "E"
+  },
+  {
+    "Lot Size": "501 to 1200",
+    "General Inspection Level I": "G",
+    "General Inspection Level II": "J",
+    "General Inspection Level III": "K",
+    "Special Inspection Level S1": "C",
+    "Special Inspection Level S2": "C",
+    "Special Inspection Level S3": "E",
+    "Special Inspection Level S4": "F"
+  },
+  {
+    "Lot Size": "1201 to 3200",
+    "General Inspection Level I": "H",
+    "General Inspection Level II": "K",
+    "General Inspection Level III": "L",
+    "Special Inspection Level S1": "C",
+    "Special Inspection Level S2": "D",
+    "Special Inspection Level S3": "E",
+    "Special Inspection Level S4": "G"
+  },
+  {
+    "Lot Size": "3201 to 10000",
+    "General Inspection Level I": "J",
+    "General Inspection Level II": "L",
+    "General Inspection Level III": "M",
+    "Special Inspection Level S1": "C",
+    "Special Inspection Level S2": "D",
+    "Special Inspection Level S3": "F",
+    "Special Inspection Level S4": "G"
+  },
+  {
+    "Lot Size": "10001 to 35000",
+    "General Inspection Level I": "K",
+    "General Inspection Level II": "M",
+    "General Inspection Level III": "N",
+    "Special Inspection Level S1": "C",
+    "Special Inspection Level S2": "D",
+    "Special Inspection Level S3": "F",
+    "Special Inspection Level S4": "H"
+  },
+  {
+    "Lot Size": "35001 to 150000",
+    "General Inspection Level I": "L",
+    "General Inspection Level II": "N",
+    "General Inspection Level III": "P",
+    "Special Inspection Level S1": "D",
+    "Special Inspection Level S2": "E",
+    "Special Inspection Level S3": "G",
+    "Special Inspection Level S4": "J"
+  },
+  {
+    "Lot Size": "150001 to 500000",
+    "General Inspection Level I": "M",
+    "General Inspection Level II": "P",
+    "General Inspection Level III": "Q",
+    "Special Inspection Level S1": "D",
+    "Special Inspection Level S2": "E",
+    "Special Inspection Level S3": "G",
+    "Special Inspection Level S4": "J"
+  },
+  {
+    "Lot Size": "500001 to and over",
+    "General Inspection Level I": "N",
+    "General Inspection Level II": "Q",
+    "General Inspection Level III": "R",
+    "Special Inspection Level S1": "D",
+    "Special Inspection Level S2": "E",
+    "Special Inspection Level S3": "H",
+    "Special Inspection Level S4": "K"
+  }
+]

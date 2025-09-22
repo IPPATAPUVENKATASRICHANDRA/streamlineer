@@ -1,0 +1,283 @@
+[
+    {
+        "Defect Category":"Seam Defects",
+        "Defect Description (English)":"Open Seam"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Broken Stitch"
+    },
+    {
+        
+        "Defect Category":null,
+        "Defect Description (English)":"Twisted Seam"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Puckering"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Wrong Stitch"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Missing Stitch"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Uneven Stitch"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Skipped Stitch"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Wavy Seam"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Raw Edge"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Slanted Seam"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Mismatched Seam"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Seam Breakage"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Drop "
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Wrong size"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Fabric Deffect"
+    },
+    {
+        "Defect Category":"Collar Defects",
+        "Defect Description (English)":"Collar Tape Attach "
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Collar Tape Closing"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Collar Attach"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Collar Under Placket"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Collar Center out"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Collar Point un even\/shape out"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Neck band Un even"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Peak shape off"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Collar Top Stitch un even width"
+    },
+    {
+        "Defect Category":"Sleeve Defects",
+        "Defect Description (English)":"Sleeve Top Stitch"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Sleeve Attach"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Sleeve Placket"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Sleeve Hem"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Sleeve Cuff"
+    },
+    {
+        "Defect Category":"Button Defects",
+        "Defect Description (English)":"Button Attach"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Button hole"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Button Placement "
+    },
+    {
+        "Defect Category":"Pocket Defects",
+        "Defect Description (English)":"Pocket Attach"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Pocket Shape"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Pocket Size"
+    },
+    {
+        "Defect Category":"Hem Defects",
+        "Defect Description (English)":"Bottom Hem"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Side Seam Hem"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Cuff Hem"
+    },
+    {
+        "Defect Category":"Zipper Attach and top stitch.",
+        "Defect Description (English)":"Wrong Zipper  Size "
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Up and Down at zipper attaching "
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Wavy Zipper attach "
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Highking at Zipper attach "
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Zipper Top Stitch un even "
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Raw Edge at Zipper attach "
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Zipper Teeth Damage "
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Zipper Fastness "
+    },
+    {
+        "Defect Category":"Other Defects",
+        "Defect Description (English)":"Center Out"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Missing Operation"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Shade Color"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Up\/Down"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Pleat"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Label Attach"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Size & Care Label Attach"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Safe Thread"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Washing Care Label Attach"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Waist band"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Double Needle Pocket"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Collar Tacking"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Stain"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Incomplete Stitch "
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Bad Repair"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Needle hole"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Pen Mark"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Cut Damages"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"trimming"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"slubs "
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"unsecured"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"mis-match side seam"
+    },
+    {
+        "Defect Category":null,
+        "Defect Description (English)":"Wrong Placement "
+    }
+]
